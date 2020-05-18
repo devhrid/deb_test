@@ -1,0 +1,5 @@
+{
+"mongoURI": "mongodb+srv://deb:pass123@cluster0-nwbvk.mongodb.net/sn?retryWrites=true&w=majority",
+"jwtSecret": "SECRET"
+
+}
